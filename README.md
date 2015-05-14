@@ -30,6 +30,7 @@ We have good experience using these Typescript aware editors:
 From the directory that contains index.html:
 
     $ npm install -g http-server  # Or sudo npm install -g http-server
+    $ cd dist
     $ http-server                 # Creates a server at localhost:8080
     # In a browser, visit localhost:8080/index.html
 

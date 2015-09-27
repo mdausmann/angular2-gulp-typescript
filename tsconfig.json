@@ -9,8 +9,11 @@
         "noLib": false,
         "emitDecoratorMetadata": true
     },
+    "filesGlob": [
+        "src/**/*.ts"
+    ],
     "files": [
-        "src/**/*.ts",
+        "src/app.ts",
         "typings/angular2/angular2.d.ts"
     ]
 }
